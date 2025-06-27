@@ -39,19 +39,3 @@ python3 -m venv venv
 ```python
 source venv/bin/activate
 ```
-
-3. Встановлюємо потрібні бібліотеки та модулі для запуску проєкту
-
-Для запуску проєкту потрібно буде встановити необхідні для нього бібліотеки та модулі
-
-Встановлюємо усе необхідне командою:
-
-Для **Windows**:
-```python
-pip install -r requirements.txt
-```
-
-Для **MacOS**:
-```python
-pip3 install -r requirements.txt
-```
